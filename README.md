@@ -1,5 +1,3 @@
-<img width="498" height="280" alt="BrazilFlagGifGIF" src="https://github.com/user-attachments/assets/54c346bf-a40c-4786-9891-4cc756c76c2b" />
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=200&section=header&text=Gustavo%20Mireski%20Demetrio&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Sistemas%20da%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=16&width=1000)
