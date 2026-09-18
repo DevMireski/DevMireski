@@ -8,8 +8,6 @@
 
 <br>
 
-<img align="right" width="360" src="https://cdn.pixabay.com/animation/2023/03/07/16/57/16-57-08-116_512.gif" alt="coding gif" />
-
 ## $ whoami
 
 ```bash
