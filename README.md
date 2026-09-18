@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8A2BE2,50:9932CC,100:4B0082&height=230&section=header&text=HELLO%20WORLD&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Bem-vindo%20ao%20meu%20perfil%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=18&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8c591d,50:cc9133,100:966a23&height=230&section=header&text=HELLO%20WORLD&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Bem-vindo%20ao%20meu%20perfil%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=18&width=1000" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9932CC&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full+Stack;PHP+%2F+Laravel+no+dia+a+dia;Estudando+Java+%26+DevOps;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=cc9133&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full+Stack;PHP+%2F+Laravel+no+dia+a+dia;Estudando+Java+%26+DevOps;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,55 +10,57 @@
 
 <img align="right" width="360" src="https://cdn.pixabay.com/animation/2023/03/07/16/57/16-57-08-116_512.gif" alt="coding gif" />
 
-## 👋 Eu sou o Gustavo!
+## $ whoami
 
-### 🚀 Desenvolvedor Full Stack | Foco em Back-end
+```bash
+gustavo@dev:~$ cat sobre.txt
 
-Construo e evoluo **sistemas web reais** com PHP/Laravel, e estou de olho firme em **DevOps** como próximo passo da carreira.
+  Nome......: Gustavo Mireski Demetrio
+  Cargo.....: Desenvolvedor Full Stack (foco back-end)
+  Empresa...: Naj Sistemas  ->  PHP / Laravel
+  Formacao..: Sistemas da Informacao @ UNIDAVI
+  Objetivo..: migrar para DevOps  (pos em Java + DevOps)
+  Estudando.: Java, Spring Boot, CI/CD, Cloud, RAG
+  Lema......: codigo limpo e problema resolvido na raiz
+  Local.....: Santa Catarina, Brasil
 
-- 🎓 Estudante de **Sistemas da Informação** na UNIDAVI
-- 💼 Desenvolvedor na **Naj Sistemas** PHP/Laravel no dia a dia
-- 🎯 Objetivo: migrar para **DevOps** (pós em Java + DevOps)
-- 🌱 Estudando **Java, Spring Boot, CI/CD e Cloud**
-- 💡 Curto código limpo e resolver problema na raiz
-- 🇧🇷 Santa Catarina, Brasil
+gustavo@dev:~$ ./start.sh
+> iniciando mais um dia de aprendizado...
+```
 
 <br clear="right"/>
 
 <br>
 
-## 🛠️ Tecnologias
+## Tecnologias
 
-**⚙️ Uso no dia a dia**
+**Uso no dia a dia**
 
-![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,docker,linux,gcp,git&theme=dark" />
+</p>
 
-**📚 Estudando** *(rumo a DevOps)*
+**Estudando** *(rumo a DevOps + IA)*
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,githubactions&theme=dark" />
+</p>
 
-**🔎 Tenho contato**
+`Java`  ·  `Spring Boot`  ·  `CI/CD`  ·  `Cloud`  ·  `RAG (Langchain)`
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Tenho contato**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,postgres&theme=dark" />
+</p>
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=DevMireski&hide_border=true&background=0d1117&stroke=9932CC&ring=8A2BE2&fire=8A2BE2&currStreakLabel=9932CC&sideLabels=c9c9c9&dates=808080&currStreakNum=c9c9c9&sideNums=c9c9c9)
+<img src="https://streak-stats.demolab.com?user=DevMireski&hide_border=true&background=0d1117&stroke=cc9133&ring=cc9133&fire=cc9133&currStreakLabel=664816&sideLabels=c9c9c9&dates=808080&currStreakNum=c9c9c9&sideNums=c9c9c9" />
 
 </div>
 
@@ -68,9 +70,9 @@ Construo e evoluo **sistemas web reais** com PHP/Laravel, e estou de olho firme 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mireski-demetrio-54260224b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conta1testegustavo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevMireski)
+<a href="https://www.linkedin.com/in/gustavo-mireski-demetrio-54260224b/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:conta1testegustavo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/DevMireski"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 
 </div>
 
